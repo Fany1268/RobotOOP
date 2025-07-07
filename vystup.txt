@@ -1,0 +1,26 @@
+Tisknu do konzole i do všech souborů zároveň...
+[32mRobot robot_4 udělal krok vpřed [0m
+Zbývá 999 úkonů do kontroly
+[31mRobot robot_3 udělal krok vzad[0m
+Zbývá 999 úkonů do kontroly
+Bot bot_1 udělal krok vzad
+Zbývá 1010 do zničení 
+robot_1
+24
+0.6
+1000
+
+robot_3
+50
+0.6
+999
+
+bot_1
+24
+0.8
+1010
+Výzbroj: plazmový kanón
+[31;43mVýzbroj: plazmový kanón[0m
+Barva: bílá
+Štít aktivní: False
+
